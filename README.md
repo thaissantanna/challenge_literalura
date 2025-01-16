@@ -77,10 +77,4 @@ Amamos contribuidores! Siga estas etapas para ajudar:
 
 ---
 
-## 🌍 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 **Aproveite sua jornada literária com o Busca Livros!** ❤️
-
